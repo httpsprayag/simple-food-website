@@ -245,7 +245,7 @@ code {
   width: 100%;
   justify-content: center;
   margin-right: 250px;
-  margin-top: 80px;
+  margin-top: 140px;
 }
 
 .reservation input{
@@ -272,4 +272,9 @@ code {
 }
 .confirm:hover{
   cursor: pointer;
+}
+
+.food1{
+  height: 250px;
+  width: 200px;
 }
